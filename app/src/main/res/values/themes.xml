@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JetNewRemake" parent="Platform.Theme.JetNewRemake" />
+
+    <style name="Platform.Theme.JetNewRemake" parent="Theme.Material3.DayNight">
+        <item name="android:statusBarColor">@color/black30</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">JetNewRemake</string>
+    <string name="home">Home</string>
+    <string name="interest">Interest</string>
+    <string name="article">Article</string>
+    <string name="common_error">There was an error occur</string>
+    <string name="empty_data">There is no data</string>
+    <string name="reload">Reload</string>
+    <string name="search_article">Search article</string>
+    <string name="cd_more_action">More action</string>
+    <string name="cd_back">Back</string>
+    <string name="published_in">Published in: \n%1$s</string>
+    <string name="close">Close</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="cd_jet_new_logo">Jet New logo</string>
+
+    <!-- Home screen -->
+    <string name="home_title">Jet new</string>
+    <string name="home_open_drawer_navigation">Open drawer navigation</string>
+    <string name="home_post_min_read">%1$s - %2$d min read</string>
+    <string name="home_top_section_title">Top stories for you</string>
+    <string name="home_popular_section_title">Popular on Jet news</string>
+    <string name="home_post_based_on_history">BASED ON YOUR HISTORY</string>
+
+    <!-- Article screen -->
+    <string name="article_post_min_read">%1$s • %2$d min read</string>
+    <string name="article_text_setting_title">Text setting</string>
+    <string name="article_text_setting_description">Change the text appearance</string>
+
+    <!-- Interests Screen -->
+    <string name="interests_title">Interests</string>
+    <string name="interests_section_topics">Topics</string>
+    <string name="interests_section_people">People</string>
+    <string name="interests_section_publications">Publications</string>
+</resources>
